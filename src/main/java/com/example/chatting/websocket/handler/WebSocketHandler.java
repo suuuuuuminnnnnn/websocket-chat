@@ -1,6 +1,6 @@
-package com.example.chatting.handler;
+package com.example.chatting.websocket.handler;
 
-import com.example.chatting.entity.Message;
+import com.example.chatting.websocket.entity.Message;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.autoconfigure.http.HttpMessageConverters;

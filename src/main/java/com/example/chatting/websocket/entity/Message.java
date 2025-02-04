@@ -1,4 +1,4 @@
-package com.example.chatting.entity;
+package com.example.chatting.websocket.entity;
 
 import lombok.*;
 
